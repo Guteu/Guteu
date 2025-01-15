@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Guteu
+- 🗺️ I know how to speak in english and portuguese-BR
 - 👀 I’m interested in JavaScript, React.js, HTML and CSS
 - 🌱 I’m currently learning many things
 - 📫 How to reach me:
